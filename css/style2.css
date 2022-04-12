@@ -1,0 +1,20 @@
+header {
+	background-color: skyblue;
+	text-align: center;
+	border: 5px dotted lightgreen;
+}
+body {
+	background-image: url("https://cdn.glitch.global/2f390c12-d4e1-40e0-a51f-298c860e6db7/quantitatives-io-VkFLGd6JxOQ-unsplash.jpg?v=1643047209131");
+	background-size: cover;
+}
+h1 {
+	color: black;
+	cursor: pointer;
+}
+p {
+	color: black;
+	line-height: 20px;
+}
+h2 {
+	color: black;
+}
